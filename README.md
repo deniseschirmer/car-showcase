@@ -1,7 +1,8 @@
-#Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+
 ![Car Showcase]
 
-##Introduction
+## Introduction
 
 Use Next.js 13 App Router and Server Side Rendering
 Implement Advanced Search Functionality
