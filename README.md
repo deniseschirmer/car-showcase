@@ -1,18 +1,16 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-
-![Car Showcase]
+# Car Showcase
 
 ## Introduction
 
-Use Next.js 13 App Router and Server Side Rendering
-Implement Advanced Search Functionality
-Create Filtering Capabilities
+The project is being developed in Next.js 13 and server-side rendering
+Implement advanced search functionality
+Create filtering resources
 Optimize Metadata and SEO
-Create custom filter, combobox, and modal elements
+Create custom filter, combo box and modal elements
 Maintain a well-organized file and folder structure.
-The principles of writing clean code.
+And write clean code.
 
-### Project Link: No yet
+### Project Link: Not yet
 
 ### 🛠 Tecnologias
 
